@@ -15,6 +15,8 @@
 - `POST /api/items`
 - `DELETE /api/items/{id}`
 
+<img width="763" height="866" alt="image" src="https://github.com/user-attachments/assets/d55dd0a6-bc90-4739-b8db-80473a4bb9a3" />
+
 ## Как правильно сохранять файлы
 
 Любые изменяемые файлы необходимо сохранять в [постоянное хранилище Amvera](https://docs.amvera.ru/applications/storage.html#data). Файлы внутри директории с кодом могут быть потеряны после пересборки приложения.
